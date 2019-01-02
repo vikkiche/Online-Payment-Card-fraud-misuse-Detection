@@ -1,1 +1,2 @@
 # Online-Payment-Card-fraud-misuse-Detection
+Anomaly detection is important for cybersecurity Ai systems. This is a self- learning, Machine learning project for understanding the unsupervised learning. Just moved the source code with update from bitbucket. I used to learn existing algorithm like Local Outlier Factor and Isolation Forest Algorithm with help of Microsoft research program and also learn data visualization methods. Apparently, I deleted the comments and disable the visualization commands.
